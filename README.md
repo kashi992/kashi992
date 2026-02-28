@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi there, I'm Muhammad Kashif Toor! 👋</h1>
-<h3>Frontend & Full-Stack Web Developer at Pixel Pace Technologies | Lahore, Pakistan</h3>
+<h3>Frontend & Full-Stack Web Developer at Pixel Pace Technologies</h3>
 <p>Building pixel-perfect, high-performance websites and web applications with modern stacks — specializing in React, Vite, Tailwind, WordPress, Shopify, and agency-level business solutions that drive results for clients worldwide.</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00A1D6&center=true&vCenter=true&width=600&lines=Frontend+React+%26+Vite+Expert;Pixel+Pace+Technologies+Developer;Tailwind+%7C+Framer+Motion+%7C+3D+%7C+Shopify+%7C+WordPress" alt="Typing SVG" />
